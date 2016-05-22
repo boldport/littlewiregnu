@@ -170,7 +170,7 @@
       "location": [
         3.997323, 
         8.939713
-      ],
+      ], 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -186,7 +186,7 @@
       "location": [
         3.997323, 
         -8.939713
-      ],
+      ], 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -280,13 +280,13 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -15.880448, 
-        -29.877028
+        -0.8801753, 
+        -22.483528
       ], 
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: Little Wire GNU\nRevision: first\nDescription: the little wire GNU-themed \nLicense: The Solderpad Hardware License\nCompany: Boldport\nDesigner: Saar Drimer, saar@boldport.com"
+      "value": "Board details:\nName: Little Wire GNU\nRevision: first\nDescription: the 'little wire' GNU-themed, based on design from http://littlewire.cc\nLicense: The Solderpad Hardware License v0.51\nDesign: Saar Drimer, Boldport"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -294,8 +294,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -12.728465, 
-        -42.889229
+        -9.387172, 
+        -34.713724
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -308,8 +308,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.2mm", 
       "location": [
-        -16.538456, 
-        -53.616478
+        -13.197163, 
+        -45.440973
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -319,8 +319,8 @@
   }, 
   "drill-index": {
     "location": [
-      -28.659745, 
-      -20.691605
+      26.720409, 
+      -0.50166313
     ]
   }, 
   "drills": {}, 
