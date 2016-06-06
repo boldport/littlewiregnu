@@ -65,7 +65,7 @@
           "style": "stroke",
           "stroke-width": 0.2,
           "height": 5.33,
-          "radii": {"tl": 0.5, "tr": 0.5, "bl": 0, "br": 0.5}
+          "radii": {"tl": 0, "tr": 0.5, "bl": 0.5, "br": 0.5}
         },
         {
           "type": "path",
