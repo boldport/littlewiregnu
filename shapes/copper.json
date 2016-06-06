@@ -8,11 +8,12 @@
         {
           "layers": ["top"],
           "location": [
-            11.25, 
+            -10.5, 
             0
           ], 
           "meta": "gnu",
-          "rotate": -90, 
+          "scale": 0.7,
+          "rotate": 90, 
           "style": "fill", 
           "type": "path", 
           "gerber-lp": "dcdddc",
