@@ -247,7 +247,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: Little Wire GNU\nRevision: first\nDescription: the 'little wire' GNU-themed, based on design from http://littlewire.cc\nLicense: The Solderpad Hardware License v0.51\nDesign: Saar Drimer, Boldport"
+      "value": "Board details:\nName: Little Wire GNU\nRevision: first\nDescription: the 'little wire' GNU-themed, based on design from http://littlewire.cc\nLicense: GFDL v1.3 and CC BY-SA 2.0 (dual-licensed)\nDesign: Saar Drimer, Boldport"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
